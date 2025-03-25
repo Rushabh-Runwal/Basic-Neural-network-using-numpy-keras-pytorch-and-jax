@@ -16,21 +16,23 @@ Each approach includes:
 ✔ Model training and evaluation 📊  
 ✔ Final output and visualization 🎨  
 
-## 📁 Repository Structure  
-```sh
-📦 deep-learning-nonlinear-regression  
- ┣ 📂 notebooks  
- ┃ ┣ 📜 numpy_manual_backprop.ipynb  
- ┃ ┣ 📜 pytorch_manual.ipynb  
- ┃ ┣ 📜 pytorch_class_based.ipynb  
- ┃ ┣ 📜 pytorch_lightning.ipynb  
- ┃ ┣ 📜 tensorflow_low_level.ipynb  
- ┃ ┣ 📜 tensorflow_builtin_layers.ipynb  
- ┃ ┣ 📜 tensorflow_functional_api.ipynb  
- ┃ ┣ 📜 synthetic_data_generation.ipynb  
- ┃ ┗ 📜 utils.py (common utility functions)  
- ┣ 📂 media  
- ┃ ┗ 📜 walkthrough_video.mp4  
- ┣ 📜 README.md  
- ┣ 📜 requirements.txt  
- ┗ 📜 .gitignore  
+### 1. [NumPy from Scratch](https://colab.research.google.com/drive/1TAH--F-BPfpOKQPjwmS8dCLv9CQ4Hzyt?usp=sharing)
+
+### **2. PyTorch Implementations**
+
+#### a) [PyTorch Scratch (Without Built-in Layers)](https://colab.research.google.com/drive/13CTpk8uSXmYW6db1KDuZE1WTWo3UYOhp?usp=sharing)
+
+#### b) [PyTorch with Modules](https://colab.research.google.com/drive/1ylvxcPxoruiWnh8yG5XdITeQWP6aQJ0Z?usp=sharing)
+
+#### c) [PyTorch Lightning](https://colab.research.google.com/drive/1zPdsKXbiueZZNccplCbJcB1D0YMXYIDr?usp=sharing)
+
+### **3. TensorFlow Implementations**
+
+#### a) [TensorFlow Scratch(Without High-Level API)](https://colab.research.google.com/drive/1P1XSXPQiiKNyoFZ4JRCKKMhQ05quFGU1?usp=sharing)
+
+#### b) [TensorFlow Built-in](https://colab.research.google.com/drive/17_m8ihquumIK238dQPoBsBaX293IJxuR?usp=sharing)
+
+#### c) [Functional API](https://colab.research.google.com/drive/1gcEYA1rW0Hx0PzU39w_iCokWyYuaKgIp?usp=sharing)
+
+### 4. [4D Plot Guide](https://colab.research.google.com/drive/1u8z0B8gr6vQ3lxXfV4cH4xD2SMpXPev6?usp=sharing)
+
