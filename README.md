@@ -16,23 +16,23 @@ Each approach includes:
 ✔ Model training and evaluation 📊  
 ✔ Final output and visualization 🎨  
 
-### 1. [NumPy from Scratch](https://colab.research.google.com/drive/1TAH--F-BPfpOKQPjwmS8dCLv9CQ4Hzyt?usp=sharing)
+### 1. [NumPy from Scratch](https://colab.research.google.com/drive/1LSpt8owJ2ILKARohS95sGUBYoudfwW__?usp=sharing)
 
 ### **2. PyTorch Implementations**
 
-#### a) [PyTorch Scratch (Without Built-in Layers)](https://colab.research.google.com/drive/13CTpk8uSXmYW6db1KDuZE1WTWo3UYOhp?usp=sharing)
+#### a) [PyTorch Scratch (Without Built-in Layers)](https://colab.research.google.com/drive/1r2GVuIUR9u8M6GXh0UGvy3nD7jK3oQbd?usp=sharing)
 
-#### b) [PyTorch with Modules](https://colab.research.google.com/drive/1ylvxcPxoruiWnh8yG5XdITeQWP6aQJ0Z?usp=sharing)
+#### b) [PyTorch with Modules](https://colab.research.google.com/drive/1uoYRk9bIHDq0TgvXEv1A3AmWrOelQYAi?usp=sharing)
 
-#### c) [PyTorch Lightning](https://colab.research.google.com/drive/1zPdsKXbiueZZNccplCbJcB1D0YMXYIDr?usp=sharing)
+#### c) [PyTorch Lightning](https://colab.research.google.com/drive/1_3V0sbkMuGX-XB1Zh0MH9riVh07_Ek2Q?usp=sharing)
 
 ### **3. TensorFlow Implementations**
 
-#### a) [TensorFlow Scratch(Without High-Level API)](https://colab.research.google.com/drive/1P1XSXPQiiKNyoFZ4JRCKKMhQ05quFGU1?usp=sharing)
+#### a) [TensorFlow Scratch(Without High-Level API)](https://colab.research.google.com/drive/1IlOI1AnJ40mhBZ66OvHXF0DDpJEJUsGq?usp=sharing)
 
-#### b) [TensorFlow Built-in](https://colab.research.google.com/drive/17_m8ihquumIK238dQPoBsBaX293IJxuR?usp=sharing)
+#### b) [TensorFlow Built-in](https://colab.research.google.com/drive/176vup6o4xL1bUD5GMS4yBa8gsjcqBOHI?usp=sharing)
 
-#### c) [Functional API](https://colab.research.google.com/drive/1gcEYA1rW0Hx0PzU39w_iCokWyYuaKgIp?usp=sharing)
+#### c) [Functional API](https://colab.research.google.com/drive/11kSJ2T5DC1ZX85kYGRZ1i6s4uZjyxZWe?usp=sharing)
 
-### 4. [4D Plot Guide](https://colab.research.google.com/drive/1u8z0B8gr6vQ3lxXfV4cH4xD2SMpXPev6?usp=sharing)
+### 4. [4D Plot Guide](https://colab.research.google.com/drive/1JcOV3CAbSQYFXaFEZpzw9AHxJwZGO6yA?usp=sharing)
 
