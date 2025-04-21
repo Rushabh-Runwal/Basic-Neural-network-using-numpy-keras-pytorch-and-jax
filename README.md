@@ -1,5 +1,7 @@
 # Deep Learning Assignment: 3-Layer Neural Network for Nonlinear Regression  
 
+## [Video Walkthrough](https://youtu.be/8RFuH3GYYK4)
+
 ## 📌 Overview  
 This repository contains solutions for implementing a **3-layer neural network** for **nonlinear regression** using multiple frameworks:  
 - **NumPy (from scratch with manual backpropagation)**  
